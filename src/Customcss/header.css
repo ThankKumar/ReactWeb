@@ -1,0 +1,40 @@
+.headerAndScroolBar{
+    display:flex;
+    margin: 50px  0px 0px 50px;
+}
+
+.Icon1{
+    height: 50px;
+}
+.Icon2{
+    height: 50px;
+}
+.Icon3{
+    height: 50px;
+}
+.Icon4{
+    height: 50px;
+}
+.ListOfItem{
+    width: 150px;
+    
+}
+
+.ListOfItem{
+    background-color: aqua;
+height: 100%;
+align-items: center;
+}
+.imageText2{
+  columns: red;
+  margin-left: 200px;
+ 
+    
+}
+.imageText1{
+   /* align-self; */
+    position: absolute;
+   color: aqua;
+    margin-left: 70%;
+    /* text-align: right; */
+}
